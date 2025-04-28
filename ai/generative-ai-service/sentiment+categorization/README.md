@@ -17,14 +17,9 @@ To use the Customer Message Analyzer, follow these steps:
 2. The system will automatically cluster the messages into categories based on their content.
 3. Each message will receive a sentiment score indicating its emotional tone.
 4. Review the generated summary report highlighting dominant themes, sentiment trends, and actionable insights.
- 
-# Useful Links (Optional)
 
-- [Confluence](https://confluence.oraclecorp.com/confluence/x/DaCEoAE)
-    - Internal Reusable Assets
- 
 # License
- 
+
 Copyright (c) 2025 Oracle and/or its affiliates.
  
 Licensed under the Universal Permissive License (UPL), Version 1.0.
